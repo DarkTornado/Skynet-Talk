@@ -68,12 +68,6 @@ chatHook = (msg, replier, tf) => {
         replier.reply(chatData[res]);
         if (tf) replier.reply('input: ' + msg + '\ntokens: ' + tokens.join() + '\nQ: ' + res + '\nA: ' + chatData[res] + '\nED: ' + min);
     }
-    return;
-    var s = [];
-    for (var n = 0; n < result.length; n++) {
-        s[n] = result[n] + ' -> ' + chatData[result[n]];
-    }
-    replier.reply('input: ' + msg + '\ntokens: ' + tokens.join() + '\n----------\n' + s.join('\n'));
 };
 
 wordCheck = (chat, tokens) => {
