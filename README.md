@@ -15,3 +15,7 @@
 * 사용된 채팅 데이터 : [Chatbot_data_for_Korean v1.0](https://github.com/songys/Chatbot_data) (MIT License)
 * 형태소 분석 Rest API : [open-korean-text](https://github.com/open-korean-text/open-korean-text) (Apache License 2.0)
 * 편집 거리 계산 모듈 : [levenshtein.js](https://gist.github.com/andrei-m/982927) (MIT License)
+
+## 버전 2.0
+
+* 마르코프 체인 사용
