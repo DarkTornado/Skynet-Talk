@@ -2,6 +2,8 @@
 
 import json
 
+print('Started')
+
 file = open('./input.txt', encoding='utf-8')
 input = file.read()
 file.close()
@@ -16,8 +18,10 @@ for word in data:
         if not (key in words):
             words[key] = []
         words[key].append(value)
+
 result = json.dumps(words, ensure_ascii=False)
 file = open('./output.json', 'w', encoding='utf-8')
 file.write(result)
 file.close()
+
 print("Finished")
