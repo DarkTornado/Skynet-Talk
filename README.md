@@ -33,5 +33,5 @@
 1. 각 어절들을 시작으로 문장 생성 (마르코프 체인 사용)
 1. 생성된 문장들 중 아무거나 하나 전송
 
-* 사용된 채팅 데이터 : [Chatbot_data_for_Korean v1.0](https://github.com/songys/Chatbot_data) (MIT License송
+* 사용된 채팅 데이터 : [Chatbot_data_for_Korean v1.0](https://github.com/songys/Chatbot_data) (MIT License)
 * 채팅 데이터 열라많이 늘리면 봐줄 만한 결과 나옴
