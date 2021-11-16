@@ -38,3 +38,8 @@
 
 * 사용된 채팅 데이터 : [Chatbot_data_for_Korean v1.0](https://github.com/songys/Chatbot_data) (MIT License)
 * 채팅 데이터 열라많이 늘리면 봐줄 만한 결과 나옴
+
+## 버전 2.1
+
+* 않이 파이썬으로 만든 다음에 리눅스 서버에서 돌리려고 했는데, 서버가 살아나지를 않음;;
+* 일단 php로 만들어보자!
