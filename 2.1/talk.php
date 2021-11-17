@@ -1,4 +1,4 @@
 <?php
-// Skynet-Talk 2.0
+// Skynet-Talk 2.1
 
 ?>
