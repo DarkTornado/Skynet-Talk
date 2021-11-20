@@ -6,18 +6,10 @@
 * 라이선스는 [AGPL 3.0](LICENSE)지만, 상업적 이용을 금지하는 저작권자의 방침이 우선적으로 적용됩니다.
 * [Project S](https://github.com/DarkTornado/ProjectS) 소속입니다.
 
-## 버전 1.0
+## [버전 1.0](./1.0)
 
-* 사용 언어 및 플랫폼 : 자바스크립트 (비공식 카카오톡 봇)
-
-1. 수신된 채팅 내용을 중 명사만 추출
-1. 해당 명사들이 가장 많이 포함된 문장들 선정
-1. 그 문장들 중 편집 거리가 가장 짧은 문장들 선정
-1. 선정된 문장들 중 하나를 선택하여, 선택된 문장에 대한 답변 전송
-
-* 사용된 채팅 데이터 : [Chatbot_data_for_Korean v1.0](https://github.com/songys/Chatbot_data) (MIT License)
-* 형태소 분석 RESTful API : [open-korean-text](https://github.com/open-korean-text/open-korean-text) (Apache License 2.0)
-* 편집 거리 계산 모듈 : [levenshtein.js](https://gist.github.com/andrei-m/982927) (MIT License)
+* 미리 저장해놓은 대화 내용에서 입력된 채팅과 가장 유사한 채팅을 찾고, 그 채팅에 대한 응답 전송
+* 자바스크립트로 구현, 비공식 카카오톡 봇용
 
 ## 버전 2.0
 
