@@ -3,7 +3,7 @@
 © 2021-2023 Dark Tornado, All rights reserved.
 
 * 대화 기능 제대로 다시 구현한다면서 삽질하는거 올리는 곳.
-* 라이선스는 [AGPL 3.0](LICENSE)지만, 상업적 이용을 금지하는 저작권자의 방침이 우선적으로 적용됩니다.
+* 라이선스는 [Deep Dark License - Type D](LICENSE)가 적용되어있어요.
 * [Project S](https://github.com/DarkTornado/ProjectS) 소속입니다.
 
 ## [버전 1.0](./1.0)
