@@ -1,6 +1,6 @@
 # Skynet Talk
 
-© 2021-2023 Dark Tornado, All rights reserved.
+© 2021-2025 Dark Tornado, All rights reserved.
 
 * 대화 기능 제대로 다시 구현한다면서 삽질하는거 올리는 곳.
 * 라이선스는 [Deep Dark License - Type D](LICENSE)가 적용되어있어요.
